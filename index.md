@@ -1,6 +1,6 @@
 ## Welcome to Indrajeet's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/indrajeetgour/indrajeetgour.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am an Data Engineer by profession, solve real world problem help people and prod father.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
