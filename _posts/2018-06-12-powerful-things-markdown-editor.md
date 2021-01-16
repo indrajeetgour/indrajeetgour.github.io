@@ -1,23 +1,22 @@
 ---
 layout: post
-title:  "Powerful things you can do with the Markdown editor"
-author: sal
-categories: [ Jekyll, tutorial ]
+title: "Powerful things you can do with the Markdown editor"
+author: igour
+categories: [Jekyll, tutorial]
 image: assets/images/16.jpg
 ---
+
 There are lots of powerful things you can do with the Markdown editor. If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
 
 As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using.
-
 
 ## Special formatting
 
 As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
 
-+ ~~strike through~~
-+ ==highlight==
-+ \*escaped characters\*
-
+- ~~strike through~~
+- ==highlight==
+- \*escaped characters\*
 
 ## Writing code blocks
 
@@ -33,9 +32,9 @@ There are two types of code elements which can be inserted in Markdown, the firs
 
 ```html
 <li class="ml-1 mr-1">
-    <a target="_blank" href="#">
+  <a target="_blank" href="#">
     <i class="fab fa-twitter"></i>
-    </a>
+  </a>
 </li>
 ```
 
@@ -43,12 +42,12 @@ There are two types of code elements which can be inserted in Markdown, the firs
 
 ```css
 .highlight .c {
-    color: #999988;
-    font-style: italic; 
+  color: #999988;
+  font-style: italic;
 }
 .highlight .err {
-    color: #a61717;
-    background-color: #e3d2d2; 
+  color: #a61717;
+  background-color: #e3d2d2;
 }
 ```
 
@@ -57,12 +56,12 @@ There are two types of code elements which can be inserted in Markdown, the firs
 ```js
 // alertbar later
 $(document).scroll(function () {
-    var y = $(this).scrollTop();
-    if (y > 280) {
-        $('.alertbar').fadeIn();
-    } else {
-        $('.alertbar').fadeOut();
-    }
+  var y = $(this).scrollTop();
+  if (y > 280) {
+    $(".alertbar").fadeIn();
+  } else {
+    $(".alertbar").fadeOut();
+  }
 });
 ```
 
@@ -85,9 +84,6 @@ puts markdown.to_html
 ```c
 printf("Hello World");
 ```
-
-
-
 
 ![walking]({{ site.baseurl }}/assets/images/8.jpg)
 
