@@ -1,37 +1,17 @@
-## Welcome to Indrajeet's GitHub Pages
+## Welcome you all
 
-I am an Data Engineer by profession, solve real world problem help people and prod father.
+My Name is Indrajeet Gour, I am a prod father, a passionate Data Engineer by profession who solves real world problems and who loves to help people.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Things I like
+I love to take out time from my day to relax and claim down:
+- Spread time with Family
+- Read good books
+- Long walk
+### Why I started this blog
 
-### Markdown
+I wanted to build a place where I can share my acquired knowledge to the world, hope that would serve few people on the corner.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Contact
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/indrajeetgour/indrajeetgour.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can reach me out via email<ijgour@gmail.com>
