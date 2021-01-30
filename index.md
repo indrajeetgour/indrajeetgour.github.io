@@ -7,10 +7,10 @@ I love to take out time from my day to relax and claim down:
 - Spread time with Family
 - Read good books
 - Long walk
+
 ### Why I started this blog
 
 I wanted to build a place where I can share my acquired knowledge to the world, hope that would serve few people on the corner.
-
 
 ### Contact
 
