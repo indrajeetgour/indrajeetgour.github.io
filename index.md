@@ -14,4 +14,4 @@ I wanted to build a place where I can share my acquired knowledge to the world, 
 
 ### Contact
 
-You can reach me out via email<ijgour@gmail.com>
+You can reach me out via email - <ijgour@gmail.com>
