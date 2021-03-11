@@ -4,16 +4,16 @@ title: "Indrajeet Gour"
 description: "Create, Learn and Grow..."
 logo: "assets/images/favicon-32x32.png"
 favicon: "assets/images/favicon-32x32.png"
-baseurl: ''
-google_analytics: "UA-46278016-1"
-disqus: "demowebsite"
+baseurl: ""
+google_analytics: ""
+disqus: "indrajeetgour"
 mailchimp-list: ""
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  igour:
+  indrajeet:
     name: Indrajeet Gour
     display_name: Indrajeet
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
@@ -21,15 +21,6 @@ authors:
     web: https://indrajeetgour.github.io
     twitter: https://twitter.com/ijgour
     description: "An Data Engineer who loves to work share the ideas of Big data, Cloud and other technologies."
-  john:
-    name: John
-    display_name: John
-    avatar: "assets/images/avatar.png"
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
 
 # Plugins
 plugins:
