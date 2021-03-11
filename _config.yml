@@ -4,7 +4,7 @@ title: "Indrajeet Gour"
 description: "Create, Learn and Grow..."
 logo: "assets/images/favicon-32x32.png"
 favicon: "assets/images/favicon-32x32.png"
-baseurl: /
+baseurl: ''
 google_analytics: "UA-46278016-1"
 disqus: "demowebsite"
 mailchimp-list: ""
