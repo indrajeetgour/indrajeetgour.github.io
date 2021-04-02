@@ -3,7 +3,7 @@ layout: post
 title:  "Set default editor for MobaXterm"
 author: Indrajeet Gour
 categories: [ mobaxterm, how-to ]
-tags: [red, yellow]
+tags: [mobaxterm, editor]
 image: https://www.raspberrypi-spy.co.uk/wp-content/uploads/2018/11/mobaxterm_pi_featured.jpg
 description: "How to override default text editor for MobaXterm Open source"
 ---
