@@ -4,7 +4,9 @@ title: "GitHub Page for Beginner"
 author: igour
 categories: [Jekyll, tutorial]
 image: assets/images/github-page.jpeg
+featured: true
 ---
+
 GitHub give us free way of publishing our site into web using GitHubPages, it is one of the more secure option available currently as it did not have any database involved and it do offers one of the fastest response time in the enterprise due to its simplest model. 
 
 ## Guide for step by step
