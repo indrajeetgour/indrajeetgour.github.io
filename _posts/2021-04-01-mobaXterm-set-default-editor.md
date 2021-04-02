@@ -16,7 +16,7 @@ Do follow the following steps:
 - Go to the "Setting --> Configuration"
 - You will have this popup 
 
-![How to alter default editor](https://github.com/indrajeetgour/indrajeetgour.github.io/blob/master/assets/images/mobaxterm.png)
+![How to alter default editor]({{ site.baseurl }}/assets/images/mobaxterm.png)
 
 Click on to the highlighted seletion mentioned.
 
