@@ -3,7 +3,7 @@ layout: post
 title: "Hide IntelliJ Notification Window"
 author: igour
 categories: [How-to, productivity]
-image: https://images.unsplash.com/photo-1593642532973-d31b6557fa68?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80
+image: https://blog.jetbrains.com/wp-content/uploads/2016/07/idea-idea_2016_2_events.png
 featured: true
 ---
 I am the one who worked a lot with JetBrains IDEs like Intellij and PyCharm. Many time when I wanted to play with git and terminal always lot of popups comes which hide my visibility with rest.
