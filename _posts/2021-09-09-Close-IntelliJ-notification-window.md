@@ -13,7 +13,7 @@ I am the one who worked a lot with JetBrains IDEs like Intellij and PyCharm. Man
 
 You can find "Mark all notifications as read" on others tab on keymap, like this
 
-![clear notifications](assets/images/shortcut-clear-notification-inetllij.png)
+![clear notifications](../assets/images/shortcut-clear-notification-inetllij.png)
 
 Add keyboard shortcut -> `Alt + c`
 
