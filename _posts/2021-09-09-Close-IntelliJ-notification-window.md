@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Hide IntelliJ Notification Window"
 author: igour
