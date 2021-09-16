@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Import/Export connections on SQL Workbench/j"
-author: Indrajeet Gour
+author: igour
 categories: [How-to, productivity]
 image: https://www.sql-workbench.eu/EditData.png
 featured: true
 ---
-Being a *Data Engineer& I had to work a lot with databases. Over the time my best tool of choice is `SQL Workbench/j` as it is open source, fast and free.
+I worked a lot with databases being a *Data Engineer*. Over the time my best tool of choice is `SQL Workbench/j` as it is open source, fast and free.
 
 I recently had to change my laptop due to some issue with my display, so I need to shift my entire deskspace from my laptopn to another and as I mentioned SQL workbench is not go to solution for this I had to made that shift from old PC to new one.
 
