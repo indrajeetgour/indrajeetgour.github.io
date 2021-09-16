@@ -21,5 +21,3 @@ What you need to do this, just copy all the containt from mentioned dir into you
 For more information about each file inside [refer this link](https://www.sql-workbench.eu/manual/install.html#config-dir)
 
 > Hope this might have easy your life by one brick, for more productive post like this do visit my blog in future, I'll keep sharing all my ticks and shortcuts here, keep in touch see you again.
-
-
