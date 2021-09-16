@@ -1,7 +1,7 @@
 # Site
 name: "Indrajeet Gour"
 title: "Indrajeet Gour"
-description: "Create, Learn and Grow..."
+description: "Keep learning and grow..."
 logo: "assets/images/favicon-32x32.png"
 favicon: "assets/images/favicon-32x32.png"
 baseurl: ""
@@ -16,7 +16,7 @@ authors:
   igour:
     name: Indrajeet Gour
     display_name: Indrajeet Gour
-    gravatar: ijgour
+    gravatar: 12322df85be412d6e674dd8ed57b5050
     email: ijgour@gmail.com
     web: https://indrajeetgour.github.io
     twitter: https://twitter.com/ijgour
