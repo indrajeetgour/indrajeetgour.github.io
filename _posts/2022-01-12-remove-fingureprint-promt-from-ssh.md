@@ -3,7 +3,7 @@ layout: post
 title: "How to Remove the password/fingerprint prompt while ssh"
 author: igour
 categories: [automation, ssh]
-tags: [red, yellow]
+tags: [productivity]
 image: assets/images/11.jpg
 description: "Help you to automate your ssh into new server with no extra key stock required."
 ---
